@@ -45,5 +45,5 @@ def sentences(dict):
     print("Hi Jeremy, my name is", dict('name'), "and my student number is"),
     print("My ideal pizza has", dict('pizza_toppings')),
     print("I like to watch", "movies"),
-    print("Some of my favourites are", "idk")
+    print("Some of my favourites are", "movies")
 main()
